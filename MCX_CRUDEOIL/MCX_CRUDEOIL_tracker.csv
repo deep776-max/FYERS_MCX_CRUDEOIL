@@ -1,0 +1,2 @@
+run_name,ticker,symbol,rounding_multiple,index_available,futures_available,lowest_strike,highest_strike,timeframes
+MCX_CRUDEOIL_20261015_180618,CRUDEOIL,CRUDEOIL,50,False,True,6150,10500,5S|1|5|60|D
